@@ -1,12 +1,16 @@
+:
+
+
+
 # coding: utf-8
 
 
 
-# Decompiled By Shobi Tricker
+# Decompiled By ASADMALIK
 
 
 
-# Youtube : https://youtube.com/channel/UCY5JxJv23l68mkcal--r6ug
+# FACEBOOK : https://www.facebook.com/profile.php?id=100056002915717
 
 
 
@@ -14,7 +18,7 @@
 
 
 
-# Original written By Shobi Tricker
+# Original written By ASADMALIK
 
 
 
@@ -22,19 +26,19 @@ import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, co
 
 
 
-__author__ = 'Shobi'
+__author__ = 'ASADMALIK'
+
+WHATSAPP _ +923409453921
+
+__copyright = 'All rights reserved . Copyright  SUFYANO'
 
 
 
-__copyright = 'All rights reserved . Copyright  Abdul Mateen'
+CorrectUsername = 'ASADKHAN'
 
 
 
-CorrectUsername = 'AsadMalik'
-
-
-
-CorrectPassword = 'AsadMalik'
+CorrectPassword = 'ASADO'
 
 
 
@@ -86,7 +90,7 @@ while (loop == 'true'):
 
 
 
-        os.system('xdg-open https://www.facebook.com/ASADMALIK432')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100072283851146')
 
 
 
@@ -290,7 +294,7 @@ def tik():
 
 
 
-    titik = ['   ', '. ', '.. ', '...', '. ', '.. ', '...', '']
+    titik = ['      ASADMALIK    ']
 
 
 
@@ -310,11 +314,32 @@ def tik():
 
 
 
- ##### LOGO ##### 
+ #####ASADMALIK##### 
 
 
 
-logo = """
+logo = """           _____                    _____                    _____                    _____                  
+         /\    \                  /\    \                  /\    \                  /\    \                 
+        /::\    \                /::\    \                /::\    \                /::\    \                
+       /::::\    \              /::::\    \              /::::\    \              /::::\    \               
+      /::::::\    \            /::::::\    \            /::::::\    \            /::::::\    \              
+     /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \             
+    /:::/__\:::\    \        /:::/__\:::\    \        /:::/__\:::\    \        /:::/  \:::\    \            
+   /::::\   \:::\    \       \:::\   \:::\    \      /::::\   \:::\    \      /:::/    \:::\    \           
+  /::::::\   \:::\    \    ___\:::\   \:::\    \    /::::::\   \:::\    \    /:::/    / \:::\    \          
+ /:::/\:::\   \:::\    \  /\   \:::\   \:::\    \  /:::/\:::\   \:::\    \  /:::/    /   \:::\ ___\         
+/:::/  \:::\   \:::\____\/::\   \:::\   \:::\____\/:::/  \:::\   \:::\____\/:::/____/     \:::|    |        
+\::/    \:::\  /:::/    /\:::\   \:::\   \::/    /\::/    \:::\  /:::/    /\:::\    \     /:::|____|        
+ \/____/ \:::\/:::/    /  \:::\   \:::\   \/____/  \/____/ \:::\/:::/    /  \:::\    \   /:::/    /         
+          \::::::/    /    \:::\   \:::\    \               \::::::/    /    \:::\    \ /:::/    /          
+           \::::/    /      \:::\   \:::\____\               \::::/    /      \:::\    /:::/    /           
+           /:::/    /        \:::\  /:::/    /               /:::/    /        \:::\  /:::/    /            
+          /:::/    /          \:::\/:::/    /               /:::/    /          \:::\/:::/    /             
+         /:::/    /            \::::::/    /               /:::/    /            \::::::/    /              
+        /:::/    /              \::::/    /               /:::/    /              \::::/    /               
+        \::/    /                \::/    /                \::/    /                \::/____/                
+         \/____/                  \/____/                  \/____/                  ~~                      
+
 
 TOOLS UPDATE DN 
 
@@ -328,7 +353,7 @@ TOOLS UPDATE DN
 
 
 
- Facebook :         Janu X Kashan
+ Facebook :         ASAD KHAN
 
 
 
@@ -339,6 +364,27 @@ TOOLS UPDATE DN
  ______________________________________________
 
 
+          _____                    _____                    _____                    _____                  
+         /\    \                  /\    \                  /\    \                  /\    \                 
+        /::\    \                /::\    \                /::\    \                /::\    \                
+       /::::\    \              /::::\    \              /::::\    \              /::::\    \               
+      /::::::\    \            /::::::\    \            /::::::\    \            /::::::\    \              
+     /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \             
+    /:::/__\:::\    \        /:::/__\:::\    \        /:::/__\:::\    \        /:::/  \:::\    \            
+   /::::\   \:::\    \       \:::\   \:::\    \      /::::\   \:::\    \      /:::/    \:::\    \           
+  /::::::\   \:::\    \    ___\:::\   \:::\    \    /::::::\   \:::\    \    /:::/    / \:::\    \          
+ /:::/\:::\   \:::\    \  /\   \:::\   \:::\    \  /:::/\:::\   \:::\    \  /:::/    /   \:::\ ___\         
+/:::/  \:::\   \:::\____\/::\   \:::\   \:::\____\/:::/  \:::\   \:::\____\/:::/____/     \:::|    |        
+\::/    \:::\  /:::/    /\:::\   \:::\   \::/    /\::/    \:::\  /:::/    /\:::\    \     /:::|____|        
+ \/____/ \:::\/:::/    /  \:::\   \:::\   \/____/  \/____/ \:::\/:::/    /  \:::\    \   /:::/    /         
+          \::::::/    /    \:::\   \:::\    \               \::::::/    /    \:::\    \ /:::/    /          
+           \::::/    /      \:::\   \:::\____\               \::::/    /      \:::\    /:::/    /           
+           /:::/    /        \:::\  /:::/    /               /:::/    /        \:::\  /:::/    /            
+          /:::/    /          \:::\/:::/    /               /:::/    /          \:::\/:::/    /             
+         /:::/    /            \::::::/    /               /:::/    /            \::::::/    /              
+        /:::/    /              \::::/    /               /:::/    /              \::::/    /               
+        \::/    /                \::/    /                \::/    /                \::/____/                
+         \/____/                  \/____/                  \/____/                  ~~                      
 
                                                   """ 
 
@@ -624,7 +670,7 @@ def action():
 
 
 
-                print '\x1b[1;91m  AsadMalik-Cp ' + k + c + user + '  |  ' + pass1
+                print '\x1b[1;91m  Asadmalik-Cp ' + k + c + user + '  |  ' + pass1
 
 
 
@@ -664,7 +710,7 @@ def action():
 
 
 
-                    print '\x1b[1;92m  AsadMalik-Ok ' + k + c + user + '  |  ' + pass2
+                    print '\x1b[1;92m  Asadmalik-Ok ' + k + c + user + '  |  ' + pass2
 
 
 
@@ -688,7 +734,7 @@ def action():
 
 
 
-                    print '\x1b[1;92m  AsadMalik-OK ' + k + c + user + '  |  ' + pass2
+                    print '\x1b[1;92m  Asadmalik-OK ' + k + c + user + '  |  ' + pass2
 
 
 
@@ -728,7 +774,7 @@ def action():
 
 
 
-                        print '\x1b[1;92m  AsadMalik-OK  ' + k + c + user + '  |  ' + pass3
+                        print '\x1b[1;92m  Asadmalik-OK  ' + k + c + user + '  |  ' + pass3
 
 
 
@@ -752,7 +798,7 @@ def action():
 
 
 
-                        print '\x1b[1;92m  AsadMalik-Cp ' + k + c + user + '  |  ' + pass3
+                        print '\x1b[1;92m  Asadmalik-Cp ' + k + c + user + '  |  ' + pass3
 
 
 
@@ -816,14 +862,14 @@ def action():
 
 
 
-    jalan('Note : Cp account  10 say 12 days BAD OPEN KRY')
+    jalan('Note : Cp account  7 say 8 days BAD OPEN KRY')
 
 
 
     raw_input('\n\x1b[1;95m[\x1b[1;98mMetoo_menu_Back\x1b[1;95m]')
 
 
-
+l lol ugh g RCS ab 
     login()
 
 
@@ -833,4 +879,7 @@ if __name__ == '__main__':
 
 
     menu()
+
+
+
 
